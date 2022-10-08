@@ -1,4 +1,4 @@
-{% include head.heml %}
+{% include head.html %}
 # 集合知システム分野（鹿島研）
 ## 基本情報
 - 正式名称：京都大学大学院 情報学研究科 
