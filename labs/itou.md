@@ -13,7 +13,6 @@
   - M1：4名
   - 学部生 9名
   - 研究生 4名（全員留学生）
-- 設立年
 - 公式サイト：[リンク](https://sites.google.com/kyoto-u.ac.jp/takayukiitolaboratory/home)
 
 ## 研究内容
