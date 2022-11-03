@@ -1,7 +1,7 @@
 {% include head.html %}
-# 集合知システム分野（鹿島研）
+# メディア応用講座 映像メディア分野（中村研）
 ## 基本情報
-- 正式名称：京都大学大学院 情報学研究科 
+- 正式名称：京都大学大学院 情報学研究科 知能情報学専攻 メディア応用講座 映像メディア分野
 - メンバー
   - 教授：中村 裕一
   - 准教授：近藤 一晃
@@ -10,7 +10,7 @@
   - M2：名
   - M1：名
   - 学部生：名
-- 公式サイト：[リンク](https://www.s-im.t.kyoto-u.ac.jp/com/ja/information/laboratory/mm_media)
+- 参考サイト：[リンク](https://www.s-im.t.kyoto-u.ac.jp/com/ja/information/laboratory/mm_media)
 
 ## 研究内容
 - 表情や動作のセンシングによる内部状態の推定
