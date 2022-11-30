@@ -10,7 +10,8 @@
   - M2：名
   - M1：名
   - 学部生：名
-- 公式サイト：[リンク](https://www.s-im.t.kyoto-u.ac.jp/com/ja/information/laboratory/mm_media)
+- 公式サイト：[リンク](http://www.ccm.media.kyoto-u.ac.jp/index-j.php)
+- 参考：[リンク](https://www.s-im.t.kyoto-u.ac.jp/com/ja/information/laboratory/mm_media)
 
 ## 研究内容
 - 表情や動作のセンシングによる内部状態の推定
